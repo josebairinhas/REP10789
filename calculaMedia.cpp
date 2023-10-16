@@ -8,7 +8,7 @@ int main(){
 	cin>>nota2;
 	cin>>nota3;
 	cin>>nota4;
-	somaNotas = nota1+nota2+nota3+nota4;
+	somaNotas = (nota1*5)+(nota2)+(nota3)+(nota4*2);
 	media = somaNotas/4;
 	cout<< "Nota 1: "<< nota1<<endl;
 	cout<< "Nota 2: "<< nota2<<endl;
